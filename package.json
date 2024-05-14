@@ -1,0 +1,28 @@
+{
+  "name": "mainplayground",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NDKhoa1307/S-Group-Backend.git"
+  },
+  "author": "NDKhoa1307",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NDKhoa1307/S-Group-Backend/issues"
+  },
+  "homepage": "https://github.com/NDKhoa1307/S-Group-Backend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "body-parser": "^1.20.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.0"
+  }
+}
